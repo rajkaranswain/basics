@@ -4,4 +4,4 @@ def mean(mylist):
 
 student_grade =[1,2,3]
 print(type(student_grade))
-print(mean(student_grade))
+print(mean(student_grade))  
